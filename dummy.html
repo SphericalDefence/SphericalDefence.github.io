@@ -20,7 +20,8 @@
     <script async src="https://cdn.ampproject.org/v0.js#<script>alert(123)</script>"></script>
   </head>
   <body>
-<IMG SRC="javascript:alert('XSS');">
-<p>hi</p>
+
+<p>';alert(String.fromCharCode(88,83,83))//';alert(String.fromCharCode(88,83,83))//";
+</p>
   </body>
 </html>
