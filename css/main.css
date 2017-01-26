@@ -2,3 +2,6 @@ video {
 object-fit: fill;
 height: inherit;
 }
+.blog-single-fullwidth-img {
+    padding-top: 250px;
+}
