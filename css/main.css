@@ -5,3 +5,6 @@ height: inherit;
 .blog-single-fullwidth-img {
     padding-top: 250px;
 }
+.wow>.fa {
+ font-size: 50px;   
+}
