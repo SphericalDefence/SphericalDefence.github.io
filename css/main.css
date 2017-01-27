@@ -11,3 +11,8 @@ height: inherit;
 .fes2-img, .fes3-img  {
     background-size: contain;
 }
+.post-prev-img>img {
+max-height: 50px;
+    margin-right: auto;
+        margin-left: auto;
+}
